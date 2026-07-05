@@ -1,0 +1,1 @@
+document.write("<script type=text/javascript src=https://cdn.h5wan.4399sj.com/h5mini-2.0/dist/static/js/index.js></script>");

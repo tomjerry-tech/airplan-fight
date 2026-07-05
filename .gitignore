@@ -1,0 +1,39 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+*.local
+
+# Logs and runtime output
+*.log
+
+# Editors and local project metadata
+.vscode/
+.idea/
+code/.idea/
+.agents/
+.codex/
+
+# OS files
+Thumbs.db
+Desktop.ini
+
+# Local database/runtime files
+*.db
+*.sqlite
+*.sqlite3
+
+# Local binaries/tooling
+*.exe
+
+# Accidental empty scratch file
+/按
